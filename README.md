@@ -1,7 +1,7 @@
 Authentication and Authorization Delegation Mechanism Design Memo Takashi Norimatsu(@tnorimat), Hitachi,Ltd.
 ===
 
-INPORTANT NOTICE
+NOTICE
 
 This article and related codes are not yet maintained. Please refer to keycloak's pull request (https://github.com/keycloak/keycloak/pull/5163) on behalf of them.
 
