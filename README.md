@@ -1,6 +1,11 @@
 Authentication and Authorization Delegation Mechanism Design Memo Takashi Norimatsu(@tnorimat), Hitachi,Ltd.
 ===
 
+INPORTANT NOTICE
+
+This article and related codes are not yet maintained. Please refer to keycloak's pull request (https://github.com/keycloak/keycloak/pull/5163) on behalf of them.
+
+
 # 1. Preface
 This memo describes Delegating Authentication and Authorization by Identity Brokering with custom providers.
 In this memo, the terms defined in [NIST SP 800-63C] are used.
